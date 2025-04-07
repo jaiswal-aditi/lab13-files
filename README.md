@@ -1,7 +1,6 @@
 # ICS 212
-## Homework - Week 13
+## Lab - Week 13
 
-# Classes
 
 ### Instructions:
 - Update the program files following instructions provided in the assignment pdf (uploaded on Laulima) and in the program comments.
