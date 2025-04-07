@@ -1,0 +1,3 @@
+Entry 1: Integer = 42, Float = 3.14, Character = A
+Entry 2: Integer = 25, Float = 7.50, Character = B
+Entry 3: Integer = 100, Float = 1.23, Character = C
