@@ -6,11 +6,11 @@
 - Update the program files following instructions provided in the assignment pdf (uploaded on Laulima) and in the program comments.
 
 ### Steps to submit changes:
-1. Click on desired .cpp file to open it
+1. Click on main.c file to open it
 2. Click the pencil icon to edit file on the top right
 3. Update the file with your code following homework assignment description
 4. Once you are ready to submit your changes, click on the green "Commit changes..." button on the top right
-5. Enter a commit message that describes your changes in a few words - eg: created Person class
+5. Enter a commit message that describes your changes in a few words 
 6. Select "Commit directly to the main branch"
 7. Click on "Commit Changes" button. Your code changes have been submitted!
 
