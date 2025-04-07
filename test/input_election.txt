@@ -1,5 +1,0 @@
-John Smith 120
-Emma Lee 150
-Ali Khan 100
-Lily Chen 150
-Ben Jones 80
